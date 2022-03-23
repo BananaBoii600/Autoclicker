@@ -1,7 +1,7 @@
 # Python-Autoclicker
 A autoclicker made in python using pynput 
 
-Python is also required to run this code
+Python is required to run this code, it can downloaded at https://www.python.org/downloads/
 
 This code can ONLY be used for personal use and educational purposes
 
